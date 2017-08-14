@@ -5,7 +5,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 
 ### Conteúdo
 
-* Apresentação do Curso
+* [Apresentação do Curso](https://docs.google.com/presentation/d/1rVBu8eDDuZ_3fB-AMDOLe3eww-tXhK7Ajr6PzUTnhfs/edit?usp=sharing)
 
 
 ### Referências
