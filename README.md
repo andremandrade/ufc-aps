@@ -13,7 +13,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Requisitos Evolutivos](https://docs.google.com/presentation/d/19U3WBM4b5xuA8bmlPsj3wI_yBpueVz5NezcCT49InmE/edit?usp=sharing)
 * [Casos de Uso](https://drive.google.com/open?id=19wDoj_jqi-YJbzYJZf-UBdBicfgwYnNPYw57zoUn74k)
 * [Lab 02 - Casos de Uso](lab02.md) *
-
+* [Outros Requisitos](https://docs.google.com/presentation/d/1JAuQu9ilIM7711rPLhty1s4YhPaMkxQLafCio3gV70Q/edit?usp=sharing)
 
 ### Referências
 
