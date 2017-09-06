@@ -15,6 +15,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Lab 02 - Casos de Uso](lab02.md) *
 * [Outros Requisitos](https://docs.google.com/presentation/d/1JAuQu9ilIM7711rPLhty1s4YhPaMkxQLafCio3gV70Q/edit?usp=sharing)
 * [Elaboração - Conceitos Básicos](https://docs.google.com/presentation/d/1k1522lxUKMDoNcBvhbROyrF-J5yz5G_bbVE3gWcNCbk/edit?usp=sharing)
+* [Lab 03 - Outros Requisitos](lab03.md) *
 
 ### Referências
 
