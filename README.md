@@ -16,6 +16,8 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Outros Requisitos](https://docs.google.com/presentation/d/1JAuQu9ilIM7711rPLhty1s4YhPaMkxQLafCio3gV70Q/edit?usp=sharing)
 * [Elaboração - Conceitos Básicos](https://docs.google.com/presentation/d/1k1522lxUKMDoNcBvhbROyrF-J5yz5G_bbVE3gWcNCbk/edit?usp=sharing)
 * [Lab 03 - Outros Requisitos](lab03.md) *
+* [Modelos de Domínio](https://docs.google.com/presentation/d/1DJHsy4nq-WVPYLnFJQNhQp5in6wG3vffgVQ6-TP8SKo/edit?usp=sharing)
+* [Diagramas de Sequência de Sistema](https://docs.google.com/presentation/d/1cM4pbFNrIeDFpSOSf-g0v6tsd1nGDnii6n7TpYHhwrI/edit?usp=sharing)
 
 ### Referências
 
