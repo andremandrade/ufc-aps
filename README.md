@@ -18,6 +18,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Lab 03 - Outros Requisitos](lab03.md) *
 * [Modelos de Domínio](https://docs.google.com/presentation/d/1DJHsy4nq-WVPYLnFJQNhQp5in6wG3vffgVQ6-TP8SKo/edit?usp=sharing)
 * [Diagramas de Sequência de Sistema](https://docs.google.com/presentation/d/1cM4pbFNrIeDFpSOSf-g0v6tsd1nGDnii6n7TpYHhwrI/edit?usp=sharing)
+* [Lab 04 - Modelo de Domínio e Diagramas de Sequência](lab04.md) *
 
 ### Referências
 
