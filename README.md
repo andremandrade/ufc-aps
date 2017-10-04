@@ -27,6 +27,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 
 * [Arquitetura Lógica e Diagrama de Pacotes](https://docs.google.com/presentation/d/13jB157I8lzVUUG8K5T7jGq8TQIC1waM_ac6JJ2RWVto/edit?usp=sharing)
 * [Diagramas de Interação](https://docs.google.com/presentation/d/1dZSdeNAzXjniLcztqx3mFsaxB_Q1xku-VvgCGIqPgIw/edit?usp=sharing)
+* [Lab 05 - Diagramas de Comunicação](lab05.md) *
 
 
 
