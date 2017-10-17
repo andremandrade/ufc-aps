@@ -10,7 +10,7 @@
 * Glossário
 * Lista de Riscos
 * Casos de Uso (4 completos, 4 informais, 4 resumidos)
-* Diagramas de Casos de uso
+* Diagrama de Casos de uso
 * Protótipos de Interface
 * Especificação Suplementar
 * Regras de Domínio
