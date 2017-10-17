@@ -17,4 +17,5 @@
 * Lista de Categorias
 * Modelo de Domínio
 * Diagramas de Sequência
+* Contratos de Operação
 * Diagramas de Comunicação
