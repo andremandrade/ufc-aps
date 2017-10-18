@@ -29,7 +29,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Diagramas de Interação](https://docs.google.com/presentation/d/1dZSdeNAzXjniLcztqx3mFsaxB_Q1xku-VvgCGIqPgIw/edit?usp=sharing)
 * [Lab 05 - Diagramas de Comunicação](lab05.md) *
 * [Diagrama de Classes](https://docs.google.com/presentation/d/1RyLu8GnpSrwvbqXBspFwPPzXCtynLs_gC7d_E0BCQVY/edit?usp=sharing)
-* [Lab 06 - Diagrama de Classes](lab05.md) *
+* [Lab 06 - Diagrama de Classes](lab06.md) *
 
 ## Projeto
 
