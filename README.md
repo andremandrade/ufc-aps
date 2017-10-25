@@ -30,6 +30,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Lab 05 - Diagramas de Comunicação](lab05.md) *
 * [Diagrama de Classes](https://docs.google.com/presentation/d/1RyLu8GnpSrwvbqXBspFwPPzXCtynLs_gC7d_E0BCQVY/edit?usp=sharing)
 * [Lab 06 - Diagrama de Classes](lab06.md) *
+* [GRASP - Projetos de Objetos com Responsabilidade](https://docs.google.com/presentation/d/1g37-sG7OIUH112O-j4uuBT7QMy83-KKuzxUB-Im7ZY0/edit?usp=sharing)
 
 ## Projeto
 
