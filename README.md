@@ -31,6 +31,10 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Diagrama de Classes](https://docs.google.com/presentation/d/1RyLu8GnpSrwvbqXBspFwPPzXCtynLs_gC7d_E0BCQVY/edit?usp=sharing)
 * [Lab 06 - Diagrama de Classes](labs/lab06.md) *
 * [GRASP - Projetos de Objetos com Responsabilidade](https://docs.google.com/presentation/d/1g37-sG7OIUH112O-j4uuBT7QMy83-KKuzxUB-Im7ZY0/edit?usp=sharing)
+* [GoF - Padrões de Projeto](https://docs.google.com/presentation/d/11c3Adu_5Zn2bN8E8RC0UnOLn09f8bqPl4Ic-cQ6NboQ/edit?usp=sharing) 
+* [Testes e Tratamento de Exceções](https://docs.google.com/presentation/d/1PmagdseJJuYXa897EeR82xnQhdyIZ6E6tLmszwbQx_M/edit?usp=sharing)
+* [Diagramas de Atividades](https://docs.google.com/presentation/d/1U15xesfFAItARaAgj4Vf4-5eQ9Ic3a3Pka-3mKEucWo/edit?usp=sharing)
+* [Diagramas de Máquina de Estados](https://docs.google.com/presentation/d/1t0EJZtB0vQ0NlnI0ci-dkrbZQvI8Dlm65ZviJEhTulM/edit?usp=sharing)
 
 ## Projeto
 
