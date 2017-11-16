@@ -1,13 +1,8 @@
-package br.ufc.crateus.aps.gof.composite;
+package br.ufc.crateus.aps.gof.composite.sem;
 
-public class ArquivoTexto extends Component {
+public class ArquivoTexto extends Item {
 
 	private float tamanho;
-
-	public ArquivoTexto(String nome, float tamanho) {
-		setNome(nome);
-		setTamanho(tamanho);
-	}
 
 	public float getTamanho() {
 		return tamanho;

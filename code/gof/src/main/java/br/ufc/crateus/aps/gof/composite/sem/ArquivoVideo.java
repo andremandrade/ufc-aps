@@ -1,4 +1,4 @@
-package br.ufc.crateus.aps.gof.decorator.sem;
+package br.ufc.crateus.aps.gof.composite.sem;
 
 public class ArquivoVideo extends Item {
 

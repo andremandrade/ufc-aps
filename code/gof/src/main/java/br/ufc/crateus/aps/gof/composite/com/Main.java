@@ -1,4 +1,4 @@
-package br.ufc.crateus.aps.gof.composite;
+package br.ufc.crateus.aps.gof.composite.com;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package br.ufc.crateus.aps.gof.decorator.sem;
+package br.ufc.crateus.aps.gof.composite.sem;
 
 import java.util.ArrayList;
 import java.util.List;
