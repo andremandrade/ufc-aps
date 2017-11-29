@@ -34,6 +34,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 * [Lab 07 - GRASP](labs/lab07.md) *
 * [GoF - Padrões de Projeto](https://docs.google.com/presentation/d/11c3Adu_5Zn2bN8E8RC0UnOLn09f8bqPl4Ic-cQ6NboQ/edit?usp=sharing) 
 * [Testes e Tratamento de Exceções](https://docs.google.com/presentation/d/1PmagdseJJuYXa897EeR82xnQhdyIZ6E6tLmszwbQx_M/edit?usp=sharing)
+* [Lab 08 - GOF, TDD, Exceções](labs/lab08.md) *
 * [Diagramas de Atividades](https://docs.google.com/presentation/d/1U15xesfFAItARaAgj4Vf4-5eQ9Ic3a3Pka-3mKEucWo/edit?usp=sharing)
 * [Diagramas de Máquina de Estados](https://docs.google.com/presentation/d/1t0EJZtB0vQ0NlnI0ci-dkrbZQvI8Dlm65ZviJEhTulM/edit?usp=sharing)
 
