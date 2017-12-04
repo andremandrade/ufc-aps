@@ -41,6 +41,7 @@ Prof. André Meireles - `andre@crateus.ufc.br`
 ## Projeto
 
 * [Iteração 1](projeto-iteracao-01.md)
+* [Iteração 2](projeto-iteracao-02.md)
 
 ### Referências
 
